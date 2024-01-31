@@ -1,6 +1,5 @@
 package br.com.okeaa.apiokeaapdv.controllers.response.controleCaixa;
 
-import br.com.okeaa.apiokeaapdv.controllers.response.selecionarLoja.SelecionaLoja;
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonInclude;
